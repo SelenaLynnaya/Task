@@ -1,0 +1,3 @@
+[submodule "SomeWSRApp"]
+	path = SomeWSRApp
+	url = https://github.com/MetalcoreLoli/SomeWSRApp
